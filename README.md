@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi People!
+
+I love JS and Python.
